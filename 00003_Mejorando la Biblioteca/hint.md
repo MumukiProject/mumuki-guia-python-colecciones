@@ -2,9 +2,9 @@ Para saber si la `Biblioteca` es `completa?` necesitás que se cumplan dos condi
 
 ```python
 ム 7 > 3 && Mario.hermano_de?(Luigi)
-=> true
+=> True
 
 ム !Pepita.sabe_matematica?
-=> true
+=> True
 ```
 

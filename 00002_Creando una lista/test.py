@@ -1,15 +1,15 @@
-it "El primer juego de la la Biblioteca es el CarlosDuty" do
+def test_"El primer juego de la la Biblioteca es el CarlosDuty":
   expect(Biblioteca.juegos.shift).to be CarlosDuty
-end
 
-it "El segundo juego de la Biblioteca es TimbaElLeon"  do
+
+def test_"El segundo juego de la Biblioteca es TimbaElLeon" :
   expect(Biblioteca.juegos.shift).to be TimbaElLeon
-end
 
-it "El tercer juego de la Biblioteca es Metroide"  do
+
+def test_"El tercer juego de la Biblioteca es Metroide" :
   expect(Biblioteca.juegos.shift).to be Metroide
-end
 
-it "La Biblioteca tiene únicamente esos tres juegos"  do
-  expect(Biblioteca.juegos.empty?).to be true
-end
+
+def test_"La Biblioteca tiene únicamente esos tres juegos" :
+  expect(Biblioteca.juegos.empty?).to be True
+

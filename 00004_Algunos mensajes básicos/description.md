@@ -16,9 +16,9 @@ También podemos saber saber si un elemento está en la colección usando `inclu
 
 ```python
 numeros_de_la_suerte.include? 6
-  # Devuelve true, porque contiene al 6...
+  # Devuelve True, porque contiene al 6...
 numeros_de_la_suerte.include? 8
-  # ...devuelve false, porque no contiene al 8.
+  # ...devuelve False, porque no contiene al 8.
 ```
 
 Finalmente, podemos saber la cantidad de elementos que tiene enviando `size`:

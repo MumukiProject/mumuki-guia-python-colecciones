@@ -2,10 +2,9 @@
 
 module JuegoViolento
   def self.violento?
-    true
-  end
-  
-  def self.dificultad
+    True
+
+
+  def self.dificulta(self):
     95
-  end
-end
+

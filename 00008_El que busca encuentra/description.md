@@ -12,7 +12,7 @@ Mientras que `select` devuelve una colección, `find` devuelve **únicamente** u
 => 4
 ```
 
-¿Y si ningún elemento de la colección cumple la condición? Devuelve `nil`, que, como aprendiste antes, es un objeto que representa la nada - o en este caso, que ninguno cumple la condición. :wink:
+¿Y si ningún elemento de la colección cumple la condición? Devuelve `None`, que, como aprendiste antes, es un objeto que representa la nada - o en este caso, que ninguno cumple la condición. :wink:
 
 > Veamos si se entiende: hacé que la biblioteca entienda `juego_mas_dificil_que(una_dificultad)`, que retorna algún juego en la biblioteca con más dificultad que la que se pasa por parámetro.
 >
