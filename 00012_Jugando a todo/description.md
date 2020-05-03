@@ -4,7 +4,7 @@ Es en este caso que nos resulta de utilidad el mensaje `each`.
 
 Por ejemplo, si queremos que de una colección de golondrinas, aquellas con energía mayor a 100 vuelen a Iruya, podríamos combinar `select` y `each` para hacer:
 
-```ruby
+```python
 golondrinas
   .select { |una_golondrina| una_golondrina.energia > 100 }
   .each { |una_golondrina| una_golondrina.volar_hacia!(Iruya) }

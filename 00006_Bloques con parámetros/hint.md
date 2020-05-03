@@ -1,7 +1,7 @@
 * Para pasar de minutos a horas simplemente tenés que dividir esa cantidad de minutos por 60.
 Por ejemplo:
 
-``` ruby
+```python
 ム 120/60
 => 2 #Porque 120 minutos son dos horas
 ```

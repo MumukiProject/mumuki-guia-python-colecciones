@@ -1,8 +1,8 @@
-El mensaje `map` nos permite, a partir de una colección, obtener **otra colección** con cada uno de los resultados que retorna un envío de mensaje a cada elemento. 
+El mensaje `map` nos permite, a partir de una colección, obtener **otra colección** con cada uno de los resultados que retorna un envío de mensaje a cada elemento.
 
 En otras palabras, la nueva colección tendrá lo que devuelve el mensaje que se le envíe a cada uno de los elementos. Por ejemplo, si usamos `map` para saber los niveles de energía de una colección de golondrinas:
 
-```ruby
+```python
 ム [Pepita, Norita].map { |una_golondrina| una_golondrina.energia }
 => [77, 52]
 ```

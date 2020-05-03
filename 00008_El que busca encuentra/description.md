@@ -1,13 +1,13 @@
 ¿Y si en vez de **todos** los elementos que cumplan una condición, sólo queremos uno? ¡Usamos `find`!
 
-```ruby
+```python
 algunos_numeros = [1, 2, 3, 4, 5]
 uno_mayor_a_3 = algunos_numeros.find { |un_numero| un_numero > 3 }
 ```
 
 Mientras que `select` devuelve una colección, `find` devuelve **únicamente** un elemento.
 
-```ruby
+```python
 ム uno_mayor_a_3
 => 4
 ```
@@ -15,4 +15,4 @@ Mientras que `select` devuelve una colección, `find` devuelve **únicamente** u
 ¿Y si ningún elemento de la colección cumple la condición? Devuelve `nil`, que, como aprendiste antes, es un objeto que representa la nada - o en este caso, que ninguno cumple la condición. :wink:
 
 > Veamos si se entiende: hacé que la biblioteca entienda `juego_mas_dificil_que(una_dificultad)`, que retorna algún juego en la biblioteca con más dificultad que la que se pasa por parámetro.
-> 
+>
