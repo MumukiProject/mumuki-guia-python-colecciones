@@ -1,0 +1,3 @@
+¡Excelente! Ya tenemos creada la `Biblioteca` con algunos juegos. :tada:
+
+¿Pero qué más podemos hacer con las colecciones? Pasemos al siguiente ejercicio...

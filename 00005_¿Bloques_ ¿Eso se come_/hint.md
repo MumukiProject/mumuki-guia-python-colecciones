@@ -1,0 +1,1 @@
+¿Cuánto vale `un_numero` luego de las primeras dos líneas? Prestá atención a la explicación: la secuencia de envío de mensajes en el _bloque_ del primer ejemplo está **sin ejecutar**. En cambio, al enviar el mensaje `call` en el ejemplo de `otro_numero`... :wink:

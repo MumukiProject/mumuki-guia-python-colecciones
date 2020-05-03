@@ -1,0 +1,23 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: un_numero vale 7
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: un_numero vale 8
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: otro_numero vale 5
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: otro_numero vale 10
+  checked: true
+name: "¿Bloques? ¿Eso se come?"
