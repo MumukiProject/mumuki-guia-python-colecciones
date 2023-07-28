@@ -7,17 +7,14 @@ type: problem
 extra_visible: false
 language: text
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: un_numero vale 7
+- value: un_numero vale 7
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: un_numero vale 8
+- value: un_numero vale 8
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: otro_numero vale 5
+- value: otro_numero vale 5
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: otro_numero vale 10
+- value: otro_numero vale 10
   checked: true
 name: "¿Bloques? ¿Eso se come?"

@@ -2,4 +2,4 @@ Copyright Felipe Calvo, Franco Bulgarelli, Mariana Matos, Gustavo Crespi and con
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/mumukiproject/mumuki-guia-python-colecciones-python and the AUTHORS.txt file.
+available at https://github.com/mumukiproject/mumuki-guia-ruby-colecciones-python and the AUTHORS.txt file.
